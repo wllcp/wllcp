@@ -6,11 +6,16 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Content to your wall
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      We offer small print texts to full blown wallpaper. To express who you
+      are, to educate, as a quick reference, engage vistors or just a funny
+      gimmick. 
+
+
+      Select one off the shelf or have it fit your wall in your own colours. 
     actions:
       - title: See all items
         url: /store
