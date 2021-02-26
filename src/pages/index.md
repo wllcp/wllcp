@@ -19,7 +19,7 @@ sections:
 
       Select one off the shelf or have it fit your wall in your own colours.
     actions:
-      - title: See all items
+      - title: Take a look
         url: /store
         arrow: true
         style: primary
