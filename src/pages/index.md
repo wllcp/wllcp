@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/books.png
     background_image_opacity: 65
     content: >
       # Content to your wall
@@ -12,10 +12,12 @@ sections:
 
       We offer small print texts to full blown wallpaper. To express who you
       are, to educate, as a quick reference, engage vistors or just a funny
-      gimmick. 
+      gimmick.
 
 
-      Select one off the shelf or have it fit your wall in your own colours. 
+
+
+      Select one off the shelf or have it fit your wall in your own colours.
     actions:
       - title: See all items
         url: /store
