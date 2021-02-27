@@ -1,5 +1,5 @@
 ---
-title: b
+title: business
 order: 3
 seo:
   title: Plants from Europe
