@@ -7,13 +7,13 @@ sections:
     background_image: images/hieroglyfs.png
     background_image_opacity: 65
     content: >
-      # Content to your wall
+      # Something to read...
 
 
-      We offer small print texts to full blown wallpaper. To express who you
-      are, to educate, as a quick reference, engage vistors or just a funny
-      gimmick. Select one off the shelf or have it fit your wall in your own
-      colours.
+      We offer small font text on wallpaper or murals. To express yourself, to
+      educate, to remember, to relax, to engage vistors or just as a funny
+      gimmick. Select one off the shelf or have it fit your wall the way you
+      like it.
     actions:
       - title: Take a look
         url: /store
