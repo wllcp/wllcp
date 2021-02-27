@@ -44,7 +44,7 @@ sections:
     testimonials:
       - author:
           name: 'anne-rose, boston, USA'
-          location: 'Colorado, USA'
+          location: 'boston, USA'
         text: This is something else
       - author:
           name: 'WijBRAND, The haque, Netherlands'
