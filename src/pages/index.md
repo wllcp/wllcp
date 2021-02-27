@@ -39,7 +39,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: anne-rose
+          name: 'anne-rose, boston, USA'
           location: 'Colorado, USA'
         text: This is something else
       - author:
