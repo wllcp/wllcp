@@ -39,7 +39,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: anne-rose
           location: 'Colorado, USA'
         text: This is something else
       - author:
