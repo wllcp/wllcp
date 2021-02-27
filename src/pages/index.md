@@ -4,22 +4,18 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/books.png
+    background_image: images/hieroglyfs.png
     background_image_opacity: 65
     content: >
-      # Content to your wall
+      # Something to read...
 
 
-      We offer small print texts to full blown wallpaper. To express who you
-      are, to educate, as a quick reference, engage vistors or just a funny
-      gimmick.
-
-
-
-
-      Select one off the shelf or have it fit your wall in your own colours.
+      We offer small font text on wallpaper or murals. To express yourself, to
+      educate, to remember, to relax, to engage vistors or just as a funny
+      gimmick. Select one off the shelf or have it fit your wall the way you
+      like it.
     actions:
-      - title: See all items
+      - title: Take a look
         url: /store
         arrow: true
         style: primary
@@ -45,10 +41,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+        text: Can't believe how
       - author:
           name: Major Payne
           location: 'VA, USA'
@@ -59,7 +52,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: images/promo.jpg
+    image: images/bedroom200.png
     background_image: images/leaf.svg
     cta:
       title: Discover
