@@ -27,5 +27,6 @@
         }
     ],
     "title": "wallcopy",
-    "domain": "https://unique-wallaby-94ad7.netlify.app"
+    "domain": "https://unique-wallaby-94ad7.netlify.app",
+    "bg_image_primary": "images/mighty-sycamore.svg"
 }
