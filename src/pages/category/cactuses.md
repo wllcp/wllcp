@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: KIDS
 order: 2
 seo:
   title: Cactuses
