@@ -39,21 +39,19 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: 'anne-rose, boston, USA'
           location: 'Colorado, USA'
-        text: Can't believe how
+        text: This is something else
       - author:
-          name: Major Payne
+          name: 'WijBRAND, The haque, Netherlands'
           location: 'VA, USA'
-        text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+        text: So proud having all my poetry on the wall
   - type: promotion_section
     section_id: promotion_section
     title: Print your own text to your wall?
     subtitle: We can do that too!
     image: images/bedroom200.png
-    background_image: images/logolightc.svg
+    background_image: images/greekchars.png
     cta:
       title: Discover
       url: /store
