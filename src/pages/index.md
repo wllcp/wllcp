@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/letters.png
+    background_image: images/bedroomhome.png
     background_image_opacity: 65
     content: >
       # Content to your wall
