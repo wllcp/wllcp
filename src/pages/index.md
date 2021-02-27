@@ -43,7 +43,7 @@ sections:
           location: 'Colorado, USA'
         text: This is something else
       - author:
-          name: Major Payne
+          name: 'WijBRAND, The haque, Netherlands'
           location: 'VA, USA'
         text: 200 recipes on the wall
   - type: promotion_section
