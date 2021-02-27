@@ -12,12 +12,8 @@ sections:
 
       We offer small print texts to full blown wallpaper. To express who you
       are, to educate, as a quick reference, engage vistors or just a funny
-      gimmick.
-
-
-
-
-      Select one off the shelf or have it fit your wall in your own colours.
+      gimmick. Select one off the shelf or have it fit your wall in your own
+      colours.
     actions:
       - title: Take a look
         url: /store
