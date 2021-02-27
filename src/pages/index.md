@@ -41,7 +41,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: Can't believe how
+        text: This is something else
       - author:
           name: Major Payne
           location: 'VA, USA'
