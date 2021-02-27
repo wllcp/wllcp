@@ -7,7 +7,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/marvelous-chestnut.gif
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/marvelous-chestnut.gif
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
