@@ -5,7 +5,7 @@
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "images/mighty-sycamore.svg",
-    "bg_image_product": "images/books.png",
+    "bg_image_product": "images/mighty-sycamore.svg",
     "snipcart_api_key": "",
     "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
     "palette": "cyan",
