@@ -50,10 +50,10 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
+    title: Print your own text to your wall?
+    subtitle: We can do that too!
     image: images/bedroom200.png
-    background_image: images/leaf.svg
+    background_image: images/logolightc.svg
     cta:
       title: Discover
       url: /store
