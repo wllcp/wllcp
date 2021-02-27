@@ -51,7 +51,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Print your own text to your wall?
-    subtitle: from $149.99
+    subtitle: We can do that too!
     image: images/bedroom200.png
     background_image: images/leaf.svg
     cta:
