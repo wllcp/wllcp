@@ -45,7 +45,7 @@ sections:
       - author:
           name: 'WijBRAND, The haque, Netherlands'
           location: 'VA, USA'
-        text: 200 recipes on the wall
+        text: So proud having all my poetry on the wall
   - type: promotion_section
     section_id: promotion_section
     title: Print your own text to your wall?
