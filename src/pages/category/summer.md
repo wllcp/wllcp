@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: specials
 order: 4
 seo:
   title: Summer plants
