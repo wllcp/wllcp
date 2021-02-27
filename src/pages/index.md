@@ -53,7 +53,7 @@ sections:
     title: Print your own text to your wall?
     subtitle: We can do that too!
     image: images/bedroom200.png
-    background_image: images/logolightc.svg
+    background_image: images/greekchars.png
     cta:
       title: Discover
       url: /store
